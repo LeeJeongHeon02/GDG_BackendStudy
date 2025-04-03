@@ -73,3 +73,17 @@ http:// → 프로토콜 (scheme)
 - URL : 조작할 데이터 (명사)
 - HTTP method : 데이터에 대한 행위 (동사)
 - 세부적인 규칙은 [이곳](https://velog.io/@somday/RESTful-API-%EC%9D%B4%EB%9E%80)에서..
+
+---
+
+## API명세서 작성하기
+
+- GET /todo/list → 해야할 일 목록 조회
+- GET /todo/list/finishedWork → 완료된 일 목록 조회
+- GET /todo/list/haveToDoWork → 해야할 일 목록 조회
+- GET /todo/friendsList → 친구 목록 조회
+- POST /follow → 친구 팔로우
+- POST /unFollow → 친구 언팔로우
+- POST /todo → 해야할 일 생성
+- PATCH /todo/{todo_id} → 해야할 일 수정
+- DELETE /todo/{todo_id} → 해야할 일 삭제
