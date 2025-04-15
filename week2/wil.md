@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e01d49c8-43f5-4b07-a79b-e77973de42a6)
+
 ## 어떤걸 배우나?
 
 - **스프링 빈**과 **스프링 컨테이너**의 개념
